@@ -1,0 +1,1270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\coursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\coursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\assessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\assessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\assessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\assessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\thongkemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\thongkemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\studentclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\studentclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\semestermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\semestermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\semesterclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\semesterclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\scoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\scoremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\majorstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\majorstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\majormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\majormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\enrollmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\enrollmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\courseclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\courseclassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\coursecategoriesmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\coursecategoriesmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\classesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\classesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\models\\assessmenttypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\models\\assessmenttypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\studentclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\studentclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\semestercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\semestercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\semesterclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\semesterclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\majorstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\majorstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\courseclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\courseclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\coursecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\coursecategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\controllers\\assessmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\controllers\\assessmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|c:\\users\\pc\\desktop\\btl\\btl\\views\\deletedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedassessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedassessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\coursemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\coursemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\semestersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\semestersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\majorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\majorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\enrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\enrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmstudentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmstudentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmcourseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmcourseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\managementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmmajorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmmajorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmcourseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmcourseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmsemesterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmsemesterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmsemesterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmsemesterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmmajorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmmajorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmstudentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmstudentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\enrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\enrollform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedmajorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedmajorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedmajorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedmajorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedassessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedassessmenttypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedcoursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedcoursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\majorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\majorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\coursemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\coursemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedcoursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedcoursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\coursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\coursecategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedsemesterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedsemesterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\semestersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\semestersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\deletedsemesterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\deletedsemesterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\views\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\views\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|C:\\Users\\PC\\Desktop\\BTL\\btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFAF93C3-E04D-4FBC-81E0-DEA6C89DF1EF}|BTL\\BTL.csproj|solutionrelative:btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ManagementForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ManagementForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ManagementForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\ManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:52:47.345Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ClassesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ClassesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ClassesForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\ClassesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:27:38.975Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssessmentTypesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\AssessmentTypesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\AssessmentTypesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\AssessmentTypesForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\AssessmentTypesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:46:55.281Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EnrollForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\EnrollForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\EnrollForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\EnrollForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\EnrollForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:24:03.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnrollForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\EnrollForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\EnrollForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\EnrollForm.cs",
+              "RelativeToolTip": "BTL\\Views\\EnrollForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:28:06.301Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DeletedSemesterForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedSemesterForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedSemesterForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedSemesterForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedSemesterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:20:00.035Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeletedClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedClassForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedClassForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedClassForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedClassForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:41:40.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\StudentModel.cs",
+              "RelativeToolTip": "BTL\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:33:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongKeModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ThongKeModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\ThongKeModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ThongKeModel.cs",
+              "RelativeToolTip": "BTL\\Models\\ThongKeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:14:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssessmentTypesForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\AssessmentTypesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\AssessmentTypesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\AssessmentTypesForm.cs",
+              "RelativeToolTip": "BTL\\Views\\AssessmentTypesForm.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:49:06.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ClassesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ClassesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ClassesForm.cs",
+              "RelativeToolTip": "BTL\\Views\\ClassesForm.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:30:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseCategoriesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseCategoriesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\CourseCategoriesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseCategoriesForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\CourseCategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:18:56.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentClassModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\StudentClassModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\StudentClassModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\StudentClassModel.cs",
+              "RelativeToolTip": "BTL\\Models\\StudentClassModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:24:46.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SemesterModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\SemesterModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\SemesterModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\SemesterModel.cs",
+              "RelativeToolTip": "BTL\\Models\\SemesterModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:32:31.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SemesterClassModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\SemesterClassModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\SemesterClassModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\SemesterClassModel.cs",
+              "RelativeToolTip": "BTL\\Models\\SemesterClassModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:40:27.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ScoreModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\ScoreModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ScoreModel.cs",
+              "RelativeToolTip": "BTL\\Models\\ScoreModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:45:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MajorStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\MajorStudentModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\MajorStudentModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\MajorStudentModel.cs",
+              "RelativeToolTip": "BTL\\Models\\MajorStudentModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:52:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MajorModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\MajorModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\MajorModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\MajorModel.cs",
+              "RelativeToolTip": "BTL\\Models\\MajorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:50:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnrollModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\EnrollModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\EnrollModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\EnrollModel.cs",
+              "RelativeToolTip": "BTL\\Models\\EnrollModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:21:23.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\DBHelper.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\DBHelper.cs",
+              "RelativeToolTip": "BTL\\Models\\DBHelper.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:30:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\CourseModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseModel.cs",
+              "RelativeToolTip": "BTL\\Models\\CourseModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:25:13.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseClassModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseClassModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\CourseClassModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseClassModel.cs",
+              "RelativeToolTip": "BTL\\Models\\CourseClassModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:16:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseCategoriesModels.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseCategoriesModels.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\CourseCategoriesModels.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\CourseCategoriesModels.cs",
+              "RelativeToolTip": "BTL\\Models\\CourseCategoriesModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:15:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassesModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ClassesModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\ClassesModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\ClassesModel.cs",
+              "RelativeToolTip": "BTL\\Models\\ClassesModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:23:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssessmentTypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\AssessmentTypeModel.cs",
+              "RelativeDocumentMoniker": "BTL\\Models\\AssessmentTypeModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Models\\AssessmentTypeModel.cs",
+              "RelativeToolTip": "BTL\\Models\\AssessmentTypeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:44:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\ThongKeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\ThongKeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:17:10.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:35:13.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentClassController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\StudentClassController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\StudentClassController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\StudentClassController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\StudentClassController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:25:44.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SemesterController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\SemesterController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\SemesterController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\SemesterController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\SemesterController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:33:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SemesterClassController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\SemesterClassController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\SemesterClassController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\SemesterClassController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\SemesterClassController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:41:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\ScoreController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:46:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MajorStudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\MajorStudentController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\MajorStudentController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\MajorStudentController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\MajorStudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:53:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MajorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\MajorController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\MajorController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\MajorController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\MajorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:51:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnrollController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\EnrollController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\EnrollController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\EnrollController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\EnrollController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:22:02.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:28:55.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CourseClassController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseClassController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\CourseClassController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseClassController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\CourseClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:17:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseCategoriesController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\CourseCategoriesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\CourseCategoriesController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\CourseCategoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:17:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\ClassesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:24:13.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssessmentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\AssessmentTypeController.cs",
+              "RelativeDocumentMoniker": "BTL\\Controllers\\AssessmentTypeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Controllers\\AssessmentTypeController.cs",
+              "RelativeToolTip": "BTL\\Controllers\\AssessmentTypeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:44:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeletedClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedClassForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedClassForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedClassForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\DeletedClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:37:49.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeletedAssessmentTypesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedAssessmentTypesForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\DeletedAssessmentTypesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:28:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseManagerForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\CourseManagerForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseManagerForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\CourseManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:29:54.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmThongKeChung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmThongKeChung.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmThongKeChung.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmThongKeChung.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\FrmThongKeChung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:19:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SemestersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\SemestersForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\SemestersForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\SemestersForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\SemestersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:33:47.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MajorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\MajorForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\MajorForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\MajorForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\MajorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:08:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ScoreForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ScoreForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\ScoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:47:11.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\StudentForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\StudentForm.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:38:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmStudentClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmStudentClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmStudentClass.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmStudentClass.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\FrmStudentClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:26:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmCourseClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmCourseClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmCourseClass.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmCourseClass.cs",
+              "RelativeToolTip": "BTL\\Views\\FrmCourseClass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:23:36.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ManagementForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ManagementForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ManagementForm.cs",
+              "RelativeToolTip": "BTL\\Views\\ManagementForm.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAvwL4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:54:26.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmMajorStudent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmMajorStudent.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmMajorStudent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmMajorStudent.cs",
+              "RelativeToolTip": "BTL\\Views\\FrmMajorStudent.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwFAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:05:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmCourseClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmCourseClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmCourseClass.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmCourseClass.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\FrmCourseClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:18:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmSemesterClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmSemesterClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmSemesterClass.cs",
+              "ToolTip": "X:\\ki1-nam4\\thuc_hanh_lap_trinh_net\\BTL\\BTL\\BTL\\BTL\\BTL\\Views\\FrmSemesterClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:46:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmSemesterClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmSemesterClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmSemesterClass.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmSemesterClass.cs",
+              "RelativeToolTip": "BTL\\Views\\FrmSemesterClass.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:49:33.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmMajorStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmMajorStudent.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmMajorStudent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmMajorStudent.cs [Design]",
+              "RelativeToolTip": "BTL\\Views\\FrmMajorStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:56:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\StudentForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\StudentForm.cs",
+              "RelativeToolTip": "BTL\\Views\\StudentForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:38:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmStudentClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmStudentClass.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmStudentClass.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmStudentClass.cs",
+              "RelativeToolTip": "BTL\\Views\\FrmStudentClass.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwFQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:37:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmThongKeChung.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmThongKeChung.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\FrmThongKeChung.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\FrmThongKeChung.cs",
+              "RelativeToolTip": "BTL\\Views\\FrmThongKeChung.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:25:39.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Program.cs",
+              "RelativeDocumentMoniker": "BTL\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Program.cs",
+              "RelativeToolTip": "BTL\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:56:13.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DeletedAssessmentTypesForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedAssessmentTypesForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:29:21.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\packages.config",
+              "RelativeDocumentMoniker": "BTL\\packages.config",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\packages.config",
+              "RelativeToolTip": "BTL\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T16:27:41.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeletedCourseCategoriesForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:14:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DeletedCourseCategoriesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedCourseCategoriesForm.cs",
+              "ToolTip": "X:\\ki1-nam4\\thuc_hanh_lap_trinh_net\\BTL\\BTL\\BTL\\BTL\\BTL\\Views\\DeletedCourseCategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:13:44.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CourseCategoriesForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseCategoriesForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\CourseCategoriesForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseCategoriesForm.cs",
+              "RelativeToolTip": "BTL\\Views\\CourseCategoriesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:20:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DeletedCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedCourseForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedCourseForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:53:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeletedCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedCourseForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedCourseForm.cs",
+              "ToolTip": "X:\\ki1-nam4\\thuc_hanh_lap_trinh_net\\BTL\\BTL\\BTL\\BTL\\BTL\\Views\\DeletedCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:53:10.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeletedMajorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedMajorForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedMajorForm.cs",
+              "ToolTip": "X:\\ki1-nam4\\thuc_hanh_lap_trinh_net\\BTL\\BTL\\BTL\\BTL\\BTL\\Views\\DeletedMajorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:17:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CourseManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseManagerForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\CourseManagerForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\CourseManagerForm.cs",
+              "RelativeToolTip": "BTL\\Views\\CourseManagerForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:54:34.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeletedSemesterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedSemesterForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedSemesterForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\BTL\\Views\\DeletedSemesterForm.cs [Design]",
+              "RelativeToolTip": "BTL\\BTL\\Views\\DeletedSemesterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:19:11.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SemestersForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\SemestersForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\SemestersForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\SemestersForm.cs",
+              "RelativeToolTip": "BTL\\Views\\SemestersForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:36:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeletedStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedStudentsForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedStudentsForm.cs",
+              "ToolTip": "X:\\ki1-nam4\\thuc_hanh_lap_trinh_net\\BTL\\BTL\\BTL\\BTL\\BTL\\Views\\DeletedStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:03:16.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ScoreForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\ScoreForm.cs",
+              "RelativeToolTip": "BTL\\Views\\ScoreForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:06:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DeletedStudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedStudentsForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedStudentsForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedStudentsForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedStudentsForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:07:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MajorForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\MajorForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\MajorForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\MajorForm.cs",
+              "RelativeToolTip": "BTL\\Views\\MajorForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:10:36.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeletedMajorForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedMajorForm.cs",
+              "RelativeDocumentMoniker": "BTL\\Views\\DeletedMajorForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Views\\DeletedMajorForm.cs",
+              "RelativeToolTip": "BTL\\Views\\DeletedMajorForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:19:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Form1.cs",
+              "RelativeDocumentMoniker": "BTL\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Form1.cs",
+              "RelativeToolTip": "BTL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:50:34.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\BTL\\BTL\\Form1.cs",
+              "RelativeDocumentMoniker": "BTL\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BTL\\BTL\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\source\\repos\\BTL\\BTL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:59:56.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
